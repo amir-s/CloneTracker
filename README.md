@@ -34,6 +34,9 @@ The script `analyze.js` includes five functions for different analysis. By calli
 
 ----
 
+### License
+http://creativecommons.org/licenses/by-nc-sa/2.5/ca/legalcode.en
+
 Amir Saboury
 
 http://swat.polymtl.ca
