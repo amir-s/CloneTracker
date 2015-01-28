@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-var data = JSON.parse(fs.readFileSync('./G.comb.json').toString());
+var data = JSON.parse(fs.readFileSync('./combined.json').toString());
 
 var F1 = function () {
 	var C = {};
@@ -137,4 +137,4 @@ var F5 = function () {
 	}
 };
 
-F5();
+// F5();
